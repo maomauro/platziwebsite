@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("platziWebSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a35ccdbce02042e7be46ba39e7f5a3f93501a8a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61570ae4d8eeed35129ed6a8acfb6e3bac86d285")]
 [assembly: System.Reflection.AssemblyProductAttribute("platziWebSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("platziWebSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
